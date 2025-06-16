@@ -1,0 +1,23 @@
+:root {
+  font-family: "Cal Sans";
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --primary: #16213E;
+  --secondary: #0F3460;
+  --terceary: #533483;
+  --red: #E94560;
+  --soft-white: #f1f1f1;
+  --black: #111;
+  --white: #fefefe;
+  --gray: #222222;
+}
+  
